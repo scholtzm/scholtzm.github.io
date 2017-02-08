@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/scholtzm
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://scholtz.me
+  * I am scholtzm (https://keybase.io/scholtzm) on keybase.
+  * I have a public key with fingerprint 249E 3D3B C4D2 283C 6244  57B1 36E6 874B 76A4 9D4E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010189297978fb098e4e23e5361dd0d920f71f8b34a75640cdbaa7bb72d5623953a60a",
+            "fingerprint": "249e3d3bc4d2283c624457b136e6874b76a49d4e",
+            "host": "keybase.io",
+            "key_id": "36e6874b76a49d4e",
+            "kid": "010189297978fb098e4e23e5361dd0d920f71f8b34a75640cdbaa7bb72d5623953a60a",
+            "uid": "be035a5682de134d9bf38fc8d0470019",
+            "username": "scholtzm"
+        },
+        "service": {
+            "hostname": "scholtz.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1486550266,
+    "expire_in": 157680000,
+    "prev": "caf38d060092cfdf5184aee4f9126bc2791a4f464a2768e378cb4c0a6c822164",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkm1MW1UYx8t7VphABgSRLeMassAq3pdz3zo0GygbdCuGlwiZS7kvp+UC7e3a
+UmCEbWAdgW0wgwzHRElBRuaWjLA3NSBsUplkGuairgmwSFy0MmJQDOhA7yX6wcSP
+ni8n58nv/z//58lzZnOIRhtEPWo2uPt7jEFTP/Kaku7l0HqEl8U6RF+PVMKNC1aJ
+0OkyVUoiokdQDMUYFmdplmbMPMoyEECcgCRBYaKIiiyOmmnMzPAE4GiSAqgg8hxH
+8zyNiySFEyxJcBTKITrELNks0GF3SDaXYosDFhIiwQtAxHGGECgcAJLmMYKCFEMD
+nqY4wIoAKsJy2akqlHA854QZkqzUlIdpI95/8P9z7uoNOx6iBMmRFIOLECOAyPJm
+gjELjIgCGkUxVgWd0GHjrFChnUK5XOU6YkUadIhSdUsCVAerdvJvIsOqJrY7ZJcs
+yFVKvdzlsutVmavOrnI1kDf97WDiJZuoDFERuKHDKck2RI8ppOCSVEsMMBRJojhF
+6RBYa5cc0CSpBElTDKoc9RvoViwFTokuohSKFrO4YBbNJMYADkJgZjGc4gWcZjEO
+mAEFOFzRQoJmBB4IKEcJDI5jFEDUpg7bZEQPlJycRW1Hstg4V7UDIg3aluDkUE2Q
+VhMeFqyul0a7KeafnRt/JXo9NRZrfBzv7fW/9r1wOmfXwmq6v/PiyHDpzJY1XQ+d
+4X1oXf4p/J7Ff3ls34tRd0xSxaHkuppGwzs3kqdj1guDJ3zPv+fMv9Yhtx6Vb/1x
+BZfj2i6Y11K23E4ddR1qONtUcZnUZulf9m0tWpnXZF4yrhcmnIybX/ozvODBTIfF
+f2BlKXvn3slv2z7UlASiPD/nTSWYPK2eI1+dyE3y53UV+XrP1b3ep21d9TW9MZsf
+2HzdkFJ9FU34cimyvetke4dXzNCvDDWXHke1gZJ7d/OFl/Z19vZsde4pLB2I/qap
+JX33py8YQ5ou3ek+PD7RHaCHvJ7fT6VUcruK2wIHVnLqJ55MLg6UGQdCMq5FS3nL
+AzNpcc1ZB2uSYj9p3N45PKpb8P8W9qzj7brsHz7+JX3MMzITGJnKIQvqO1ut8wU+
+U8v8W02hQ/b+TcPta7mG2+fxsvWxZx4X7fUsdB2kb4InVz+/EWs89YEUX/pcSGZE
+VVRL4Oz1tAhfUtj5L6bn7htysB2LltnxR919FzrHzuQ+/Hrn/ebtb6a1Td5Mjfn1
+nFC5MJrYVei2Rg5GNmzT9VwZrNgfTx1fHZT9idqZz3ZnvhuSNeVuGylbXux99UTf
+XLl37vQez9R07QNw9OnZlO6C8rLigY+8x/q/u7hWeAzx1/qGI7JzEu/2FoQab20j
+rKNPse/HG9i/AA==
+=8ig5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/scholtzm
+
+==================================================================
